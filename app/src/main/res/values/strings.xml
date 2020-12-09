@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CalculatorDemoUsingKotlin</string>
+    <string name="number1">Number1</string>
+    <string name="number_2">Number 2</string>
+    <string name="division">/</string>
+    <string name="multiplication">*</string>
+    <string name="substraction">-</string>
+    <string name="addition">+</string>
+    <string name="answer">Answer</string>
+    <string name="multiplication">*</string>
+    <string name="addition">+</string>
+    <string name="Result">Result: 0</string>
+</resources>
